@@ -22,7 +22,7 @@ Key Features:
 
 Technical Stack:
 
-- Smart contracts deployed on ethena testnet
+- Smart contracts deployed on testnet
 - Web3 frontend for seamless user interaction
 - Decentralized storage for property details and user data
 
